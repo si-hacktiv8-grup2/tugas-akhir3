@@ -1,0 +1,172 @@
+.tombol-contact{
+    left: 1198px;
+    top: 20px;
+}
+.gradient-button{
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    color: white;
+}
+.logo-soang{
+    position: absolute;
+    top: -1px;
+    width: 80px;
+}
+
+.img-jumbotron{
+    width: 300px;
+}
+
+.font-verdana{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.font-arial{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.font-gill{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.partial-circle:before {
+    content: '';
+    position: absolute;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    bottom: 0;
+    background: #F0F3FA;
+    bottom: -100px;
+    left: -100px;
+}
+
+.underline-about span{
+    display: inline-block;
+    padding-bottom: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.underline-about span:before {
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 25%;
+    border-bottom: 3px solid #E73587;
+}
+
+.underline-value span{
+    display: inline-block;
+    padding-bottom: 10px;
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.underline-value span:before {
+    content: "";
+    position: absolute;
+    width: 80px;
+    height: 1px;
+    bottom: 0;
+    left: 40%;
+    border-bottom: 3px solid #E73587;
+}
+
+
+/* Value Service*/
+.team-boxed {
+    color:#313437;
+    background: linear-gradient(180deg, #ffffff 50%, #020E35 50%);
+}
+  
+.team-boxed p {
+    color:#7d8285;
+}
+
+.team-boxed h2 {
+    font-weight:bold;
+    margin-bottom:40px;
+    padding-top:40px;
+    color:inherit;
+}
+
+@media (max-width:767px) {
+    .team-boxed h2 {
+        margin-bottom:25px;
+        padding-top:25px;
+        font-size:24px;
+    }
+}
+
+.team-boxed .intro {
+    font-size:16px;
+    max-width:500px;
+    margin:0 auto;
+}
+
+.team-boxed .intro p {
+    margin-bottom:0;
+}
+
+
+.team-boxed .item {
+    text-align:center;
+}
+
+.team-boxed .item .box {
+    text-align:center;
+    padding:30px;
+    /* background-color:#fff; */
+    margin-bottom:30px;
+}
+
+.team-boxed .item .name {
+    font-weight:bold;
+    margin-top:28px;
+    margin-bottom:8px;
+    color:inherit;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.team-boxed .item .description {
+    font-size:15px;
+    margin-top:15px;
+    margin-bottom:20px;
+}
+
+.team-boxed .item img {
+    max-width:360px;
+}
+
+.team-boxed .social {
+    font-size:18px;
+    color:#a2a8ae;
+}
+
+.team-boxed .social a {
+    color:inherit;
+    margin:0 10px;
+    display:inline-block;
+    opacity:0.7;
+}
+
+.team-boxed .social a:hover {
+    opacity:1;
+}
+
+.bg-work{
+    background-color: #020E35;
+}
+
+@media (min-width:767px) {
+    .mt-n1 {
+        margin-top: -6rem !important;
+    }
+
+    .mt-n2 {
+        margin-top: -10rem !important;
+    }
+}

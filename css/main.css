@@ -35,8 +35,8 @@
     width: 200px;
     border-radius: 50%;
     bottom: 0;
-    background: #F0F3FA;
-    bottom: -100px;
+    background: #e0e0e0;
+    bottom: -300px;
     left: -100px;
 }
 
@@ -122,10 +122,17 @@
     margin-bottom:30px;
 }
 
-.team-boxed .item .name {
+.team-boxed .item {
     font-weight:bold;
     margin-top:28px;
     margin-bottom:8px;
+    color:inherit;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name{
+    margin-top:28px;
+    font-weight:bold;
     color:inherit;
     font-family: Arial, Helvetica, sans-serif;
 }

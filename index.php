@@ -7,14 +7,12 @@
         <meta name="author" content="" />
         <title>New Age - Start Bootstrap Theme</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
-        <!-- Bootstrap icons-->
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
-        <!-- Google fonts-->
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,600;1,600&amp;display=swap" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,300;0,500;0,600;0,700;1,300;1,500;1,600;1,700&amp;display=swap" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;1,400&amp;display=swap" rel="stylesheet" />
-        <!-- Core theme CSS (includes Bootstrap)-->
+
         <link href="css/styles.css" rel="stylesheet" />
         <link href="css/main.css" rel="stylesheet" />
     </head>
@@ -44,12 +42,10 @@
                 </div>
             </div>
         </nav>
-        <!-- Mashead header-->
         <header class="masthead">
             <div class="container px-5">
                 <div class="row gx-5 align-items-center">
                     <div class="col-lg-5">
-                        <!-- Mashead text and app badges-->
                         <div class="mb-5 mb-lg-0 text-center text-lg-start">
                             <h1 class="display-1 lh-1 mb-3 font-verdana">We Create Content that ranks.</h1>
                             <div class="d-flex flex-column flex-lg-row align-items-center">
@@ -67,13 +63,12 @@
                 </div>
             </div>
         </header>
-        <!-- Quote/testimonial aside-->
         <aside class="text-center">
             <div class="container px-5">
                 <div class="row gx-5 justify-content-center">
                     <div class="col-xl-8">
                         <h1 class="font-arial underline-about"><span>About Us</span></h1>
-                        <div class="partial-circle "></div>
+                        <div class="partial-circle d-none d-lg-block"></div>
                         <div class="text-black mb-4 font-verdana">
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
                         </div>
@@ -111,9 +106,9 @@
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 item">
-                        <div class="box" style="background-color:#F0F3FA;">
+                        <div class="box" style="background-color:#FDF8E3;">
                             <img class="img-fluid" src="assets/img/value-2.png">
-                            <h3 class="name">Web Development</h3>
+                            <h3 class="name" style="margin-top: 34px;">Web Development</h3>
                             <p class="description">
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium porro harum quo pariatur, corrupti temporibus necessitatibus. Perferendis, amet autem. Rerum maiores accusantium et quae facilis illum eum, eligendi mollitia dolores.
                             </p>
@@ -123,13 +118,13 @@
                                         <span class="small">READ MORE</span>
                                     </span>
                                 </button>                            
-                            </div>                        
+                            </div>
                         </div>
                     </div>
                     <div class="col-md-6 col-lg-4 item">
-                        <div class="box" style="background-color:#FEEFF0;">
+                        <div class="box" style="background-color:#FDF8E3;">
                             <img class="img-fluid" src="assets/img/value-3.png">
-                            <h3 class="name">UI UX Design</h3>
+                            <h3 class="name" style="margin-top: 47px;">UI UX Design</h3>
                             <p class="description">
                                 Lorem ipsum dolor, sit amet consectetur adipisicing elit. Accusantium porro harum quo pariatur, corrupti temporibus necessitatibus. Perferendis, amet autem. Rerum maiores accusantium et quae facilis illum eum, eligendi mollitia dolores.
                             </p>
@@ -139,7 +134,7 @@
                                         <span class="small">READ MORE</span>
                                     </span>
                                 </button>                            
-                            </div>                        
+                            </div>
                         </div>
                     </div>
                 </div>

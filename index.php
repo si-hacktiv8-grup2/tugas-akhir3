@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>New Age - Start Bootstrap Theme</title>
+        <title>Home | Digital Marketing</title>
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
@@ -287,11 +287,10 @@
         <footer class="bg-black text-center py-1">
             <div class="container px-5">
                 <div class="text-white-50 small">
-                    <div class="mb-2">2022 &copy; All rights reserved by Your company name.</div>
+                    <div class="mb-2">2022 &copy; All rights reserved by Grup 2.</div>
                 </div>
             </div>
         </footer>
-        <!-- Feedback Modal-->
         <div class="modal fade" id="feedbackModal" tabindex="-1" aria-labelledby="feedbackModalLabel" aria-hidden="true">
             <div class="modal-dialog modal-dialog-centered">
                 <div class="modal-content">
